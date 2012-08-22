@@ -1,4 +1,4 @@
 cpp-stuff
 =========
 
-games in CPP
+games in CPP - Stuff I did sometime in high school or earlier.
